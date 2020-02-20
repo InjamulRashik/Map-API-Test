@@ -14,7 +14,7 @@ function success(position)
 
   var mapOptions = {
 
-    zoom: 11,
+    zoom: 18,
     center: coords,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   }
